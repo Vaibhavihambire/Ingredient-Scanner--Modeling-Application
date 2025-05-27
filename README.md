@@ -53,6 +53,8 @@ IngreScan/
     ├── screens/
     └── assets/
 
+---
+
 ## 🚀 How It Works
 
 1. User scans the product label via the mobile app (OCR).
