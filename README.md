@@ -52,7 +52,7 @@ IngreScan/
     ├── navigation/
     ├── screens/
     └── assets/
-
+```
 ---
 
 ## 🚀 How It Works
@@ -122,7 +122,7 @@ pip install -r requirements.txt
 
 # Start the Flask server
 python app.py
-
+```
 ### 📱 Mobile App
 ```bash
 # Navigate to React Native project
@@ -133,7 +133,7 @@ npm install
 
 # Run on physical device or emulator
 npx react-native run-android   # or run-ios
-
+```
 📌 Ensure both mobile and backend are connected to the same Wi-Fi network for API requests.
 
 ---
